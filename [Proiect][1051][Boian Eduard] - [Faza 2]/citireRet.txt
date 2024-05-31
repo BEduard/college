@@ -1,0 +1,13 @@
+3
+Cake 60 3
+Faina 500.0
+Zahar 300.0
+Lapte 250.0
+Pancake 30 3
+Faina 500.0
+Zahar 300.0
+Lapte 250.0
+Tiramisu 45 3
+Faina 500.0
+Zahar 300.0
+Lapte 250.0

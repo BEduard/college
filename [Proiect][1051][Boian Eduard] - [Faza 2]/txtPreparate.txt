@@ -1,0 +1,18 @@
+Numar de preparate: 0x13ce05cf0
+Preparate:
+ -  Tort - Pret: 50 lei
+Reteta: Tort
+      - Faina  -  500 grams
+      - Zahar  -  300 grams
+      - Lapte  -  250 grams
+ -  Clatite - Pret: 20 lei
+Reteta: Clatite
+      - Faina  -  500 grams
+      - Zahar  -  300 grams
+      - Lapte  -  250 grams
+ -  Tiramisu - Pret: 30 lei
+Reteta: Tiramisu
+      - Faina  -  500 grams
+      - Zahar  -  300 grams
+      - Lapte  -  250 grams
+

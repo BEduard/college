@@ -1,0 +1,4 @@
+3
+Faina 500.0
+Zahar 300.0
+Lapte 1000.0

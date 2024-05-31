@@ -1,0 +1,3 @@
+Numarul comenzii: 0
+Numarul de produse comandate: 0
+Produsele comandate: Invalid order.

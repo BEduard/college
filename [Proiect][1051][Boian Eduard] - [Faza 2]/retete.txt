@@ -1,0 +1,21 @@
+
+--------OSTREAM------------
+
+Numar de retete:: 3
+Retete:
+Cake    - Durata: 60 minute
+Ingrediente: Cake
+    - Faina  -  500 grame
+    - Zahar  -  300 grame
+    - Lapte  -  250 grame
+Pancake    - Durata: 30 minute
+Ingrediente: Pancake
+    - Faina  -  500 grame
+    - Zahar  -  300 grame
+    - Lapte  -  250 grame
+Tiramisu    - Durata: 45 minute
+Ingrediente: Tiramisu
+    - Faina  -  500 grame
+    - Zahar  -  300 grame
+    - Lapte  -  250 grame
+

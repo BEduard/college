@@ -1,0 +1,11 @@
+
+Meniu:
+Preparat 1: Tort
+Reteta 1: Faina, Zahar, Lapte, 
+Pret: 50 lei
+Preparat 2: Clatite
+Reteta 2: Faina, Zahar, Lapte, 
+Pret: 20 lei
+Preparat 3: Tiramisu
+Reteta 3: Faina, Zahar, Lapte, 
+Pret: 30 lei

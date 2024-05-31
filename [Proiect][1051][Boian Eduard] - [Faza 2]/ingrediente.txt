@@ -1,0 +1,8 @@
+
+--------OSTREAM------------
+Numar de ingrediente: 4
+Ingrediente:
+   - Faina - Stoc: 500 grame
+   - Zahar - Stoc: 200 grame
+   - Lapte - Stoc: 1000 grame
+   -  - Stoc: 0 grame

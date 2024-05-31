@@ -1,0 +1,5 @@
+Informatii despre angajati:
+Nume: Ana, Varsta: 30, Functie: Bucatar, Salariu: 4000
+Nume: Ion, Varsta: 28, Functie: Ospatar, Salariu: 3300
+Nume: Maria, Varsta: 28, Functie: Ospatar, Salariu: 3300
+Nume: Eduard, Varsta: 25, Functie: Manager, Salariu: 5000
